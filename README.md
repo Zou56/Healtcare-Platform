@@ -68,7 +68,7 @@ Prototipe ini tidak memerlukan proses instalasi atau dependensi yang rumit.
 
 1.  **Clone repositori ini:**
     ```sh
-    git clone [https://github.com/](https://github.com/)[USERNAME_ANDA]/medicare-online.git
+    git clone [https://github.com/](https://github.com/Zou56/medicare-online.git
     ```
 2.  **Buka file di browser:**
     Cukup buka file `index.html` di browser favorit Anda untuk menjalankan aplikasi.
@@ -92,4 +92,4 @@ Penggunaan AI terbukti secara signifikan **mempercepat waktu pengembangan** dari
 
 Didistribusikan di bawah Lisensi MIT. Lihat `LICENSE` untuk informasi lebih lanjut.
 
-Dibuat dengan ❤️ dan AI di Gunung Sindur, 29 September 2025.
+Dibuat dengan ❤️ dan AI di Gunung Sindur, 28 September 2025.
